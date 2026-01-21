@@ -297,7 +297,7 @@ visibility or maintainer input.
 
 ## Security Policies and Procedures
 
-<!-- SRC: expressjs/express SECURITY.md -->
+<!-- SRC: expressjs/.github SECURITY.md -->
 
 This document outlines security procedures and general policies for the Express
 project.
